@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<!--
 
+    Copyright (c) 2016-2017 CASM Organization
+    All rights reserved.
+    
+    Developed by: Philipp Paulweber
+                  https://github.com/casm-lang/casm-lang.plugin.tmbundle
+    
+    This file is part of casm-lang.plugin.tmbundle.
+
+-->
 <dict>
 	<key>fileTypes</key>
 	<array>
